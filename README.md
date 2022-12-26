@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Kelvin Likollari, I am a 22-year old Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland.
+### My name is Kelvin Likollari, I am a 22-year old Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland🇨🇭
 
 - 🔭 I’m currently building a Web Application using NodeJS which retrieves Student Data (ID, name, email, registration date) from an SQL database using PostgreSQL wrapped with Docker-Compose to run all containers together and facilitate interaction amongst them.
 - 🌱 I’m currently teaching myself Kubernetes, Java Spring Framework and TypeScript.
