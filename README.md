@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&langs_count=10&layout=compact">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&langs_count=10&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&count_private=true&langs_count=10&layout=compact" />
 </a>  
 
 
