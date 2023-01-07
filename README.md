@@ -13,7 +13,10 @@
     - [Personal Website](https://kelvinlikollari.com)
     - [Discord](https://discordapp.com/users/Cuenc#0309)
     - [Facebook](https://www.facebook.com/whattosaybuddy)
-    - 💬 Ask me about anything, I hope I might be of particular help.
+
+
+
+ ### Ask me about anything, I hope I might be of particular help.
 
 
 <br/>
@@ -42,7 +45,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=likolk&color=dc143c)
+<!-- ![](https://komarev.com/ghpvc/?username=likolk&color=dc143c) -->
 
 
 <!--START_SECTION:waka-->
