@@ -2,8 +2,8 @@
 
 ### My name is Kelvin Likollari and I am an Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland🇨🇭
 
-- 🔭 I’m currently building a Web Application using NodeJS which retrieves Student Data (ID, name, email, registration date) from an SQL database using PostgreSQL wrapped with Docker-Compose to run all containers together and facilitate interaction amongst them.
-- 🌱 I’m currently teaching myself Kubernetes, Java Spring Framework and TypeScript.
+- 🔭 I’m currently ~~building a Web Application using NodeJS which retrieves Student Data (ID, name, email, registration date) from an SQL database using PostgreSQL wrapped with Docker-Compose to run all containers together and facilitate interaction amongst them~~~~ON VACATION🥳🥹!
+<!--- 🌱 I’m currently teaching myself Kubernetes, Java Spring Framework and TypeScript.-->
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kelvin-likollari-2b5767202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvin.likollari@usi.ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvilikol13@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a>
 
 
