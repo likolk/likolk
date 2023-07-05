@@ -2,7 +2,7 @@
 
 ### My name is Kelvin Likollari and I am an Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland🇨🇭
 
-- 🌱 Find my CV <a href="https://chocolate-malia-7.tiiny.site/">here<\a>.
+- 🌱 Find my CV <a href="https://chocolate-malia-7.tiiny.site">here.
 
 - 🔭 I’m currently ~~building a Web Application using NodeJS which retrieves Student Data (ID, name, email, registration date) from an SQL database using PostgreSQL wrapped with Docker-Compose to run all containers together and facilitate interaction amongst them~~ON VACATION🥳🥹!
 <!--- 🌱 I’m currently teaching myself Kubernetes, Java Spring Framework and TypeScript.-->
