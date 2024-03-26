@@ -3,7 +3,7 @@
 ### My name is Kelvin Likollari and I am an Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland🇨🇭
 
 - 🌱 Find my CV <a href="https://sapphire-rory-43.tiiny.site/">here.
-- 🌱 I am currently teaching myself about AWS Services, Terraform, and AI in general.
+- 🌱 I am currently teaching myself about Serverless Development Model and Cloud Computing.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kelvin-likollari-2b5767202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvin.likollari@usi.ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvilikol13@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a>
 
 
