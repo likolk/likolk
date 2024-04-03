@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Kelvin Likollari and I am an Undergraduate Informatics Student from Greece🇬🇷, studying in Lugano, Switzerland🇨🇭
+### My name is Kelvin Likollari and I am a Bachelor in Informatics Graduate from Greece🇬🇷, residing in Lugano, Switzerland🇨🇭
 
 - 🌱 Find my CV <a href="https://sapphire-rory-43.tiiny.site/">here.
 - 🌱 I am currently teaching myself about Serverless Development Model and Cloud Computing.
