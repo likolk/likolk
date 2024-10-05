@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Kelvin Likollari and I am a Bachelor in Informatics Graduate from Greece🇬🇷, residing in Lugano, Switzerland🇨🇭
+### My name is Kelvin Likollari and I am a Master in Informatics Graduate from Greece🇬🇷, residing in Lugano, Switzerland🇨🇭
 
 - 🌱 Find my CV <a href="https://aiapply.co/r/665d93e0abf65">here.
 - 🌱 I am currently teaching myself about Serverless Development Model and Cloud Computing.
