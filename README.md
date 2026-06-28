@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Kelvin Likollari and I am a Master in Informatics Student from Greece🇬🇷, residing in Lugano, Switzerland🇨🇭
+### My name is Kelvin Likollari and I am a Master in Informatics Graduate, residing in Lugano, Switzerland🇨🇭
 
 - 🌱 Find my CV here: kelvilikol13@gmail.com
 - 🌱 I am currently expanding my knowledge of AI agents, LLM application development, and modern AI engineering workflows.
