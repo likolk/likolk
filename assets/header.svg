@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Kelvin Likollari, Software Developer at HCLTech in Lugano">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4F81"/><stop offset=".52" stop-color="#FF8A4C"/><stop offset="1" stop-color="#FFCB57"/>
+    </linearGradient>
+    <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <clipPath id="c"><rect width="1200" height="340" rx="28"/></clipPath>
+    <pattern id="d" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#fff" opacity=".12"/></pattern>
+    <radialGradient id="m" cx=".5" cy=".4" r=".7"><stop offset=".3" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <mask id="k"><rect width="1200" height="340" fill="url(#m)"/></mask>
+  </defs>
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .b1 { animation: f1 16s ease-in-out infinite alternate; } .b2 { animation: f2 20s ease-in-out infinite alternate; } .b3 { animation: f3 24s ease-in-out infinite alternate; }
+    @keyframes f1 { to { transform: translate(120px, 60px); } } @keyframes f2 { to { transform: translate(-140px, 50px); } } @keyframes f3 { to { transform: translate(-80px, -70px); } }
+    .p { animation: pg 2s ease-out infinite; transform-origin: 85px 71px; }
+    @keyframes pg { 0% { transform: scale(.6); opacity: .9; } 100% { transform: scale(2.1); opacity: 0; } }
+    .w { opacity: 0; animation: cy 12s infinite; } .w2 { animation-delay: 3s; } .w3 { animation-delay: 6s; } .w4 { animation-delay: 9s; }
+    @keyframes cy { 0% { opacity: 0; transform: translateY(10px); } 4%, 21% { opacity: 1; transform: none; } 25%, 100% { opacity: 0; transform: translateY(-10px); } }
+    .l { stroke-dasharray: 150; stroke-dashoffset: 150; animation: dr 1.2s .3s ease-out forwards; }
+    @keyframes dr { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .w { opacity: 0; } .w1 { opacity: 1; } .l { stroke-dashoffset: 0; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="340" fill="#0A0D1F"/>
+    <g filter="url(#b)">
+      <circle class="b1" cx="80" cy="-10" r="190" fill="#FF4F81" opacity=".55"/>
+      <circle class="b2" cx="1090" cy="60" r="180" fill="#7C9CFF" opacity=".5"/>
+      <circle class="b3" cx="760" cy="400" r="170" fill="#FFCB57" opacity=".3"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#d)" mask="url(#k)"/>
+    <rect x="62" y="50" width="356" height="42" rx="21" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".16"/>
+    <circle class="p" cx="85" cy="71" r="6" fill="none" stroke="#3DDC97" stroke-width="2"/>
+    <circle cx="85" cy="71" r="5" fill="#3DDC97"/>
+    <text x="102" y="77" font-size="17" font-weight="500" fill="#F1F2FB">Software Developer at HCLTech, Lugano</text>
+    <text y="186" font-size="92" font-weight="800" letter-spacing="-3.5"><tspan x="58" fill="#F1F2FB">Kelvin </tspan><tspan fill="url(#g)">Likollari</tspan></text>
+    <path class="l" d="M64 214h150" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/>
+    <text x="62" y="272" font-size="30" font-weight="600" fill="#A9AECB" letter-spacing="-.4">I build</text>
+    <g font-size="30" font-weight="600" fill="#F1F2FB" letter-spacing="-.4">
+      <text class="w w1" x="172" y="272">backends that are easy to run and easy to debug</text>
+      <text class="w w2" x="172" y="272">APIs with tests and clear logs</text>
+      <text class="w w3" x="172" y="272">LLM workflows where a human keeps the final say</text>
+      <text class="w w4" x="172" y="272">core banking software on Avaloq</text>
+    </g>
+  </g>
+</svg>
