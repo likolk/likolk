@@ -1,53 +1,56 @@
-### Hi there 👋
+# Hi, I'm Kelvin Likollari 👋
 
-### My name is Kelvin Likollari and I am a Master in Informatics Graduate, residing in Lugano, Switzerland🇨🇭
+**Software Developer at HCLTech in Lugano, Switzerland 🇨🇭, working on the Avaloq core banking platform.**
 
-- 🌱 Find my CV here: kelvilikol13@gmail.com
-- 🌱 I am currently expanding my knowledge of AI agents, LLM application development, and modern AI engineering workflows.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/kelvin-likollari-2b5767202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvin.likollari@usi.ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a> <a href="mailto:kelvilikol13@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/minutemailer.svg" alt="" height="30" width="40" /></a>
+I build backends that are easy to run and easy to debug: Python, APIs and PostgreSQL in production, and LLM workflows where a human keeps the final say. I hold an M.Sc. and a B.Sc. in Informatics from Università della Svizzera italiana (USI).
 
+🌐 [Website and CV](https://kelvinlikollari.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-likollari) · 📫 [kelvilikol13@gmail.com](mailto:kelvilikol13@gmail.com)
 
-    - [LinkedIn](https://www.linkedin.com/in/kelvin-likollari-2b5767202/)
-    - [University Email](mailto:kelvin.likollari@usi.ch)
-    - [Personal Email](mailto:kelvilikol13@gmail.com)
-    - [Personal Website](https://kelvinlikollari.com)
-    - [Discord](https://discordapp.com/users/Cuenc#0309)
-    - [Facebook](https://www.facebook.com/whattosaybuddy)
+## What I'm doing now
 
+- 🏦 Software Developer at HCLTech (since 10/2026), building on Avaloq core banking software
+- 🎓 Finished my M.Sc. in Informatics at USI in June 2026
+- 🤖 Going deeper into AI agents, LLM application development and human-in-the-loop workflows
 
+## Featured projects
 
- ### Ask me about anything, I hope I might be of particular help.
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [Master thesis](https://github.com/likolk/MasterThesis) | A five-level data sensitivity baseline for small companies, and a platform where an LLM suggests, a policy checks and a person decides. Rated 4.1 / 5 by security experts. [Case study and poster](https://kelvinlikollari.vercel.app/thesis.html) | Python, Flask, PostgreSQL, Gemini API |
+| [Stack Underflow](https://github.com/likolk/stack_underflow) | Real-time Q&A platform built by a team of seven. I led the team and owned the backend, APIs and WebSocket layer. | Node.js, Express, Socket.io, MongoDB, Docker |
+| [Decentralised shareholder voting](https://github.com/likolk/DSProject) | Share-weighted voting on Ethereum with tokenised shares and quorum rules. | Solidity, Hardhat, Vue, Node.js |
+| [RemoveBackground](https://github.com/likolk/RemoveBackground) | Web app that removes the background from any image. | Python, Flask, rembg, Docker |
+| [Sudoku SAT solver](https://github.com/likolk/Sudoku-Sat-Solver) | Solves Sudoku by encoding it as a SAT problem, with a GUI. | Python, Z3, pygame |
 
+## Tech I work with
 
-<br/>
+**Languages**
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&langs_count=10&layout=compact">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&count_private=true&langs_count=10&layout=compact" />
-</a>  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
+**Backend and data**
 
-<br/>
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**AI and LLMs**
 
-<a href="https://github-readme-stats.vercel.app/api?username=likolk&show_icons=true&theme=highcontrast&count_private=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=likolk&show_icons=true&theme=highcontrast&count_private=true" />  
-</a>  
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-Claude_·_OpenAI_·_Gemini-8A2BE2?style=for-the-badge) ![Human in the loop](https://img.shields.io/badge/Human--in--the--loop_workflows-FF4F81?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG_·_pgvector-4A63E0?style=for-the-badge)
 
+**Tools and platforms**
 
-<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Avaloq](https://img.shields.io/badge/Avaloq-core_banking-0A0D1F?style=for-the-badge)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=likolk&theme=highcontrast&hide_border=true&fire=DD13BC)](https://git.io/streak-stats)
+## GitHub stats
 
-<br/>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=likolk&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likolk&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" alt="Most used languages" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=red) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=1111111) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=red) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+## Languages I speak
 
+Greek and Albanian (native) · English (C1) · Italian (B2) · Spanish (A2)
 
-<br/>
+---
 
-<!-- ![](https://komarev.com/ghpvc/?username=likolk&color=dc143c) -->
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+Open to a chat about backend engineering, LLM workflows or banking software. Email is the fastest way to reach me.
